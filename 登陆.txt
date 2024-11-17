@@ -1,0 +1,8 @@
+mongod   --dbpath "C:\Program Files\MongoDB\Server\8.0\data\data_ANO"
+
+mongodb://Administrator:Huanglejia159357@106.53.52.226:27017/data_ANO
+
+JWT
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+
+https://jwt.io/
