@@ -185,7 +185,7 @@ const Navbar: React.FC = () => {
                     </button>
                     <Link to="/">
                         <img
-                            src="/UNO_Logo.svg"
+                            src="/ANO_logo.svg"
                             alt="logo"
                             className="w-24 h-24 sm:w-20 sm:h-20 md:w-24 md:h-24 lg:w-28 lg:h-28"
                         />
